@@ -1,0 +1,11 @@
+2020-07-31 13:16:14,319 +0800 [main] INFO  (StepDefinitionsDBS.java:38) - Setting WebDriver path and Invoking Driver
+2020-07-31 13:16:21,832 +0800 [main] INFO  (StepDefinitionsDBS.java:48) - WebDriver Invoked
+2020-07-31 13:16:24,685 +0800 [main] INFO  (StepDefinitionsDBS.java:58) - Navigated to the application
+2020-07-31 13:16:35,021 +0800 [main] DEBUG (StepDefinitionsDBS.java:76) - Sustainability page is validated
+2020-07-31 13:16:39,746 +0800 [main] INFO  (StepDefinitionsDBS.java:90) - Data exporting to excel
+2020-07-31 13:16:41,822 +0800 [main] DEBUG (StepDefinitionsDBS.java:109) - Food data is exported to Excel
+2020-07-31 13:16:41,837 +0800 [main] INFO  (StepDefinitionsDBS.java:125) - Clicking on About link
+2020-07-31 13:16:45,700 +0800 [main] INFO  (StepDefinitionsDBS.java:133) - Clicking on Who We Are link
+2020-07-31 13:16:49,495 +0800 [main] INFO  (StepDefinitionsDBS.java:140) - Clicking on Awards link
+2020-07-31 13:16:54,993 +0800 [main] DEBUG (StepDefinitionsDBS.java:151) - Awards Page is verified
+2020-07-31 13:16:55,765 +0800 [main] INFO  (StepDefinitionsDBS.java:178) - No of awards are verified as 22
